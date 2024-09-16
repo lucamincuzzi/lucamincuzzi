@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**lucamincuzzi/lucamincuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Su di me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Ciao! Sono Luca Mincuzzi, un junior web developer appassionato di tecnologia.
+
+🌱 Attualmente sto approfondendo le mie competenze in:
+
+HTML e CSS per la creazione di layout responsivi.
+JavaScript per aggiungere interattività alle pagine web.
+Frameworks come Vue.js per applicazioni più dinamiche.
+💻 Ho lavorato a progetti personali e collaborativi, dove ho imparato a:
+
+Utilizzare Git e GitHub per il versionamento del codice.
+Implementazioni di API RESTful per integrare funzionalità avanzate.
+📫 Sono attualmente alla ricerca di un lavoro come sviluppatore web fullstack o backend, ma anche come programmatore
+
+✨ In continuo apprendimento e sempre alla ricerca di nuove sfide per migliorare le mie abilità!
+
+##Linguaggi e tecnologie appresi 👨‍💻:
+
+- HTML
+- CSS
+- Git
+- Bootstrap
+- JavaScript
+- VueJS
+- Vite
+- SASS
+- PHP
+- MySQL
+- Laravel
+- Java
+
+##Certificati: ✅
+
+- Oracle Certified 1Z0-811 https://shorturl.at/A4YxB
+- FCE (Inglese B2)
+
+
+##Link utili: 🔗
+<a href="https://www.linkedin.com/in/lucamincuzzi/" target="_blank" rel="noopener noreferrer">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)</a>
