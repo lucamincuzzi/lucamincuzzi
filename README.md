@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-##Su di me:
+## Su di me:
 
 👋 Ciao! Sono Luca Mincuzzi, un junior web developer appassionato di tecnologia.
 
@@ -18,7 +18,7 @@ Implementazioni di API RESTful per integrare funzionalità avanzate.
 
 ✨ In continuo apprendimento e sempre alla ricerca di nuove sfide per migliorare le mie abilità!
 
-##Linguaggi e tecnologie appresi 👨‍💻:
+## Linguaggi e tecnologie appresi 👨‍💻:
 
 - HTML
 - CSS
@@ -33,11 +33,11 @@ Implementazioni di API RESTful per integrare funzionalità avanzate.
 - Laravel
 - Java
 
-##Certificati: ✅
+## Certificati: ✅
 
 - Oracle Certified 1Z0-811 https://shorturl.at/A4YxB
 - FCE (Inglese B2)
 
 
-##Link utili: 🔗
+## Link utili: 🔗
 <a href="https://www.linkedin.com/in/lucamincuzzi/" target="_blank" rel="noopener noreferrer">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)</a>
