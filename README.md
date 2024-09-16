@@ -40,4 +40,4 @@ Implementazioni di API RESTful per integrare funzionalità avanzate.
 
 
 ## Link utili: 🔗
-<a href="https://www.linkedin.com/in/lucamincuzzi/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)</a>
+<p><a href="https://www.linkedin.com/in/lucamincuzzi/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)</a></p>
