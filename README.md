@@ -40,4 +40,6 @@ Implementazioni di API RESTful per integrare funzionalità avanzate.
 
 
 ## Link utili: 🔗
-<a href="https://www.linkedin.com/in/lucamincuzzi/"></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)
+<p><a href="https://www.linkedin.com/in/lucamincuzzi/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wv_OYa4z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite" alt="linked-in" loading="lazy" width="115" height="28"></a><br>
+<a href="https://github.com/ruppysuppy" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--H_gW85YP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/GitHub-000000%3Fstyle%3Dfor-the-badge%26logo%3DGitHub%26logoColor%3Dwhite" alt="github" loading="lazy" width="96" height="28"></a><br>
+<a href="https://www.instagram.com/tapajyotib/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AO81Hx6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="instagram" loading="lazy" width="121" height="28"></a></p>
