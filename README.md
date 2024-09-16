@@ -41,3 +41,10 @@ Implementazioni di API RESTful per integrare funzionalità avanzate.
 
 ## Link utili: 🔗
 <p><a href="https://www.linkedin.com/in/lucamincuzzi/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wv_OYa4z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite" alt="linked-in" loading="lazy" width="115" height="28"></a></p>
+
+## Nom nom... 🐍
+![snake gif](https://github.com/lucamincuzzi/lucamincuzzi/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
